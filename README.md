@@ -1,1 +1,1 @@
-# JasiriAI_Afrocentric
+# jasiri_presentation
